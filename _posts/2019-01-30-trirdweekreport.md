@@ -1,4 +1,4 @@
-#Week 3 report
+# Week 3 report
 
 This week I'm still working in animating logos and icons but I learned a lot of cool tricks and ways to make the animation better.
 
