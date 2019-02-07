@@ -1,4 +1,4 @@
-#Week 2 report
+# Week 2 report
 
 This week I start to animate the icons. The first thing that I had to do was to learn how to import the logos from illustrator to after effects. Also, I learned how to work with the adobe libraries which is amazing and really helpful.
 
