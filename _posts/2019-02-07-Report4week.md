@@ -1,4 +1,4 @@
-#Week report 4
+# Week 4 report
 
 This was the final week and I discovered that I planned my time wrong. I did a lot this week to be able to finish everything that I had planned for the presentation but at the end I liked the result.
 
