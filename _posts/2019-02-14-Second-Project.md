@@ -1,6 +1,6 @@
-# Second Project - ADOBE XD PROTOTYPING
+# Tutorial week 1 - ADOBE XD PROTOTYPING
 
-For my second project I decided to study the adobe XD because it's something that I can use a lot for the project of this term and for my professional life in the future. I loved the presentation that João and Flavia did for their presentation and I think it will help more than editing cooporative videos that was the first idea that I had for the tutorial.
+For my tutorial, I decided to study the adobe XD because it's something that I can use a lot for the project of this term and for my professional life in the future. I loved the presentation that João and Flavia did for their project and I think it will help more than editing cooporative videos that was the first idea that I had for the tutorial.
 
 * Learn the basic tools of XD
 * Fixed position content
@@ -8,4 +8,8 @@ For my second project I decided to study the adobe XD because it's something tha
 * Scroll position to make a slideshow
 * Auto animate
 * If I have time I want to learn how to animate in xd and do voice prototyping
+
+
+
+
 
