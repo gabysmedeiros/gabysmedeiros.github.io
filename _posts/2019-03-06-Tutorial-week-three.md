@@ -9,8 +9,9 @@ What I have learned this week:
 * How to make dropdowns
 * How to make proper buttons (But I discovered that after I finish, so I'll change for next week)
 
-https://www.youtube.com/watch?v=mLR_Ge1AfHw
-https://www.youtube.com/watch?v=VhJaCBfZ1pk
+Some of the videos that I watched this week:
+* https://www.youtube.com/watch?v=mLR_Ge1AfHw
+* https://www.youtube.com/watch?v=VhJaCBfZ1pk
 
 
 
