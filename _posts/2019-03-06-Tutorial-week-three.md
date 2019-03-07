@@ -1,4 +1,4 @@
-# TUTORIAL WEEK THREE
+# Tutorial week 3 - ADOBE XD PROTOTYPING
 
 This week I finish all the prototyping for the project two. I was able to do all the drop down menus, notification pages and link all the pages of the web site. It's really simple to use XD but to do the prototyping properly it takes a lot of time because you need to redo every single page for each interacting that you have. 
 
